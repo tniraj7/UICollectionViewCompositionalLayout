@@ -1,5 +1,5 @@
 # UICollectionViewCompositionalLayout
-Custom flow layout for UICollectionView using advancements in UiCollectionView apis
+Custom flow layout for UICollectionView using advancements in UICollectionView apis
 
 ## Screenshots
 
